@@ -1,6 +1,11 @@
 # Cut-in-Critical-Generator
 Simple program that puts portrait PNGs into a Cut-in Critical animation, for use mainly on Lex Talionis engine.
 
+## Download
+- Download the .zip file in the releases located to the right of this page. Read the README.txt for usage instructions.
+
+
+--------------------------
 
 ## Features
 - Real-time preview
